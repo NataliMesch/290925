@@ -1,0 +1,23 @@
+juiju
+copy con my.txt 
+iТюкало
+Мишенко
+Шишелов
+Крюков
+Дутчак
+Кенович
+Жемеркин
+Кнер
+Костив
+Святенко
+
+зцв
+pwd
+copy my.txt "Z:\ОССТ(2025-2026)\1-Мд-13\Мещанская"
+cd "Z:\ОССТ(2025-2026)\1-Мд-13\Мещанская"
+cd Z:
+Z:
+mkdir 8798
+sort <my.txt> sorted_list.txt
+doskey /history
+doskey /history > lab1.txt
